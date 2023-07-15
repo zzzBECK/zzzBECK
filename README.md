@@ -12,8 +12,8 @@
 
  <div style="margin-top: 10px" align="center">
   <a href="https://github.com/zzzBECK">
-   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzBECK&theme=tokyonight&layout=compact" />
    <img height="180em" align="center" alt="zzzBECK's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzzBECK&show_icons=true&theme=tokyonight" />
+   <img height="180em" align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzBECK&theme=tokyonight&layout=compact" />
 </div>
 
 <div style="margin-top: 10px"></div>
