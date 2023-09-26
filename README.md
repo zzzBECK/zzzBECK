@@ -7,7 +7,7 @@
 ##
 
 - 👨‍🎓 Cursando Engenharia de Software na Universidade de Brasília - UnB
-- 🌱 Estudando para me tornar um desenvolvedor Full-Stack
+- 👩‍💻 Desenvolvedor Full-Stack
 - 💻 Estagiário em Desenvolvimento de Software - Grupo Orion
 
  <div style="margin-top: 10px" align="center">
