@@ -18,7 +18,7 @@
 
 <div style="margin-top: 10px"></div>
 
-### :wrench: Ferramentas que eu trabalho :
+### 🔧 Ferramentas que eu trabalho :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@
 
 <div style="margin-top: 10px"></div>
 
-### :hammer_and_wrench: Outras ferramentas que tenho experiência :
+### 🛠️ Outras ferramentas que tenho experiência :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -47,7 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ##
