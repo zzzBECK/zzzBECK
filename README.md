@@ -54,8 +54,7 @@
 <div style="margin-top: 10px"> 
   <a href = "mailto:alexandrebeck2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-de-santana-beck-b7336420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+  
 </div>
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzzzBECK&label=%F0%9F%A5%87%20VISITANTES&countColor=%4411c7&labelStyle=none)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
