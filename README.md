@@ -8,7 +8,6 @@
 
 - 👨‍🎓 Cursando Engenharia de Software na Universidade de Brasília - UnB
 - 👩‍💻 Desenvolvedor Full-Stack
-- 💻 Estagiário em Desenvolvimento de Software - Grupo Orion
 
  <div style="margin-top: 10px" align="center">
   <a href="https://github.com/zzzBECK">
